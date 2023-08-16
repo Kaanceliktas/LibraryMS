@@ -1,10 +1,10 @@
 # LibraryMS
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-+ This project is simple html cv example, there is no css, etc.
-
++ This project is simple java based Library Management System, you can find the screenshots in folder.
+  
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-+ Bu proje HTML dilinde oluşturulmuş basit bir özgeçmiş web sitesidir, diğer diller kullanılmamıştır.
++ Bu proje Java tabanlı bir Kütüphane Yönetim Sistemi Projesidir, ekran görüntülerine dosyalarda ulaşabilirsiniz.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
